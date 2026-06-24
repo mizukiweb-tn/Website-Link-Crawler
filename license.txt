@@ -1,0 +1,24 @@
+Copyright (c) 2026 MizukiWeb
+
+Permission is hereby granted to any person obtaining a copy of this software
+to view, download, and use it for personal and educational purposes only,
+subject to the following conditions:
+
+1. PERMITTED USE
+   Personal study, learning, and non-commercial experimentation are allowed.
+
+2. PROHIBITED USE
+   Commercial use, redistribution, sublicensing, and sale of this software
+   or any derivative works are strictly prohibited without prior written
+   permission from the copyright holder.
+
+3. ATTRIBUTION
+   Any permitted use must retain this copyright notice in all copies or
+   substantial portions of the software.
+
+4. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+For permission requests, please contact via the portfolio site.
